@@ -1,6 +1,8 @@
-# Dynamic Product Landing Page (Inspired by UpSpace)
+# CryproArt
+---
+# Dynamic Product Landing Page 
 
-This project is a **dynamic landing page for showcasing a product or startup**, inspired by the professional design of [UpSpace](https://upspace.live/dist/demo-business-index.html).  
+This project is a **dynamic landing page for showcasing a product or startup**, inspired by the professional design of Taha 
 
 **Project Goal:** Provide a fast, visually appealing, and customizable digital showcase for products, services, or startups.
 
@@ -20,8 +22,24 @@ This project is a **dynamic landing page for showcasing a product or startup**, 
 
 ---
 
-npm install
- 
-npm run dev
+# Installation 👨🏻‍💻
 
-http://localhost:3000
+> We recommend you use npm
+
+1. Install all packages
+
+```
+npm i
+```
+
+2. Run Development Server
+
+```
+npm run dev
+```
+
+3. Build your project
+
+```
+npm run build
+```
